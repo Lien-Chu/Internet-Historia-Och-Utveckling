@@ -24,11 +24,14 @@ header {
     display: inline-flex;
     margin: 0 auto;
     margin: 30px;
+    -webkit-filter: opacity(85%);
+    filter: opacity(85%);   
 }
 
 .container:hover {
     box-shadow: 2px 2px 2px 2px #92a2a8;
     transition: 0.3s;
+    filter: opacity(100%);
 }
 
 .questions {
