@@ -5,9 +5,9 @@ body {
 }
 
 header {
-    font-size: 30px;
-    height: 100px;
-    padding-top: 50px;
+    font-size: 2rem;
+    height: 180px;
+    padding-top: 20px;
     color: aliceblue;
     background-image: url(img/H1bc.jpg);
     background-size: cover;
@@ -16,7 +16,7 @@ header {
 
 .h2 {
     margin: 0 auto;
-    font-size: 24px;
+    font-size: 1.3rem;
 }
 
 .container {
@@ -40,12 +40,12 @@ header {
 }
 
 .questions h3 {
-    font-size: 21px;
+    font-size: 1.2rem;
 }
 
 .questions p {
     padding-left: 20px;
-    font-size: 21px;
+    font-size: 1.2rem;
 }
 
 .pictures {
@@ -84,5 +84,5 @@ footer a:hover {
 #copyleft {
     display: inline-block;
     transform: rotate(180deg);
-    font-size: 20px;
+    font-size: 1.5rem;
 }
